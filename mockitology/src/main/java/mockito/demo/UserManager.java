@@ -1,7 +1,7 @@
 package mockito.demo;
 
 /**
- * @author Simeon 
+ * @author Simeon
  *
  */
 public class UserManager {
